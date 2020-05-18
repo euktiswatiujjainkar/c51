@@ -1,0 +1,33 @@
+
+
+        h1{
+        background-image:url("download.jpg");
+       }
+       * {border:solid
+
+       }
+        .header{
+           background-image:url("download.jpg");
+           display:flex;
+           justify-content : space-between;     
+        }
+        .description{
+                background-color:#52f3f3;
+                display:flex;
+                justify-content : space-evenly; 
+                flex-grow: inherit; 
+             }
+             .grid{
+                background-color:#E0B0FF;
+                display:flex;
+                justify-content : space-evenly;
+                flex-flow: wrap-reverse;     
+             }
+             .act{
+                background-color:rgb(70, 209, 255);
+                display:flex;
+                justify-content : space-between;     
+             }
+          
+     
+    
